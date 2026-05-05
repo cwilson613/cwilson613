@@ -12,12 +12,7 @@
 
 </div>
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwilson613&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=E8852A&title_color=E8852A&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwilson613&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=E8852A&langs_count=10)
-
-</div>
+---
 
 <div align="center">
 
@@ -25,23 +20,32 @@
 
 </div>
 
+---
+
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cwilson613&theme=react-dark&hide_border=true&bg_color=0d1117&color=E8852A&line=E8852A&point=FFFFFF)
 
 </div>
 
+---
+
 <div align="center">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwilson613&theme=github_dark)
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cwilson613&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cwilson613&theme=github_dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwilson613&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cwilson613&theme=github_dark&utcOffset=-5)
-
 </div>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cwilson613&theme=github_dark" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cwilson613&theme=github_dark" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwilson613&theme=github_dark" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cwilson613&theme=github_dark&utcOffset=-5" /></td>
+  </tr>
+</table>
 
 ---
 
