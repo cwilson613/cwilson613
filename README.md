@@ -1,18 +1,11 @@
 # Hi, I'm Chris
 
-<!--takatime-start-->
+<div align="center">
 
-<h2 align="center">TakaTime Weekly Report</h2>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cwilson613&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/cwilson613)
 
-<p align="center">
-  <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
-  <img src="./public/taka-languages30.png" width="400" alt="Languages" />
-  <img src="./public/taka-projects30.png" width="400" alt="Projects" /><br/>
-  <img src="./public/taka-languages.png" width="400" alt="Languages" />
-  <img src="./public/taka-projects.png" width="400" alt="Projects" /><br/>
-  <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cwilson613&theme=dark&hide_border=true&background=0d1117)](https://github.com/cwilson613)
 
-<p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwilson613&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/cwilson613)
 
-<!--takatime-end-->
+</div>
